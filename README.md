@@ -1,1 +1,9 @@
-Use this code as solution for the https://adventofcode.com/ game. This is the solution for december 01, part 1
+Use the codes as solution for the https://adventofcode.com/ Advent of Code challange. Enter the data that the game gives you in the section 
+
+input_data = ''' 
+
+*your data here*
+
+'''
+
+
